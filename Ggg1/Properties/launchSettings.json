@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Ggg1": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "key": "User1"
+      }
+    }
+  }
+}
