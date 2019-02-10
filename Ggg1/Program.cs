@@ -10,7 +10,7 @@ namespace Ggg1
 
             Console.WriteLine("Hello World! G111 ");
 
-            Console.WriteLine("Hello World! G2 ");
+            Console.WriteLine("Hello World! G22 ");
         }
     }
 }
