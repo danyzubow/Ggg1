@@ -6,6 +6,5 @@ namespace Ggg1
 {
     class Class2
     {
-        int  i=0;
     }
 }
