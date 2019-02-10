@@ -7,6 +7,8 @@ namespace Ggg1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! G1 ");
+
+            Console.WriteLine("Hello World! G11 ");
         }
     }
 }
