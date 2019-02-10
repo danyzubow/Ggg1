@@ -6,5 +6,8 @@ namespace Ggg1
 {
     class Class2
     {
+        private string d = "привет";
+
+
     }
 }
